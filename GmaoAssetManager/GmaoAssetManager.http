@@ -1,0 +1,6 @@
+@GmaoAssetManager_HostAddress = http://localhost:5073
+
+GET {{GmaoAssetManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
