@@ -15,5 +15,5 @@ La API proporciona los siguientes puntos finales para gestionar la entidad `Equi
 ## Cómo ejecutar el proyecto de forma local
 
 1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/Oleg_Kadzov/GmaoAssetManager.git](https://github.com/Oleg_Kadzov/GmaoAssetManager.git)
+   
+   git clone https://github.com/OlegKadzov/GmaoAssetManager.git
